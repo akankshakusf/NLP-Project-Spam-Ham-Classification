@@ -5,7 +5,7 @@ This project focuses on **Spam vs. Ham (Non-Spam) classification** using **Natur
 
 ## 📂 Dataset
 - **Dataset Name:** `SMSSpamCollection`
-- **Source:** Publicly available SMS spam dataset
+- **Source:** [Publicly available SMS spam dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - **Contents:**
   - Text messages (SMS)
   - Labels (`spam` or `ham`)
